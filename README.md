@@ -1,6 +1,6 @@
-# node-express-typescript-api-routers-handlers-readonly-json
+vi"# node-express-typescript-api-routers-handlers-readonly-json
 
-This is a minimum TypeScript Node/Express API that is ready to add any data source to and host at online backend providers such as Render.
+This is a minimum TypeScript Node/Express API with router/handler structure and one route that reads from JSON file, README instructions on how to publish at Render.
 
 ![grafik](https://github.com/edwardtanguay/node-express-api-routers-handlers-json/assets/446574/cee9e2cf-6518-43f8-b3cf-afee2bbc6e10)
 
