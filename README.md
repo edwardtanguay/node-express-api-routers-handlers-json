@@ -1,4 +1,4 @@
-vi"# node-express-typescript-api-routers-handlers-readonly-json
+# node-express-typescript-api-routers-handlers-readonly-json
 
 This is a minimum TypeScript Node/Express API with router/handler structure and one route that reads from JSON file, README instructions on how to publish at Render.
 
